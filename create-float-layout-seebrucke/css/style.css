@@ -1,0 +1,36 @@
+
+*{
+    box-sizing: border-box;
+}
+.link{
+    float:left;
+    width: 20%;
+    height:100vh;
+    background-color: lightblue;
+}
+.head{
+    float:left;
+    width: 80%;
+    height:20vh;
+    background-color: lightgreen;
+}
+.content{
+    float:left;
+    width: 60%;
+    height:60vh;
+    background-color: pink;
+    overflow-y:scroll;
+    padding:20px;
+}
+.right{
+    float:left;
+    width: 20%;
+    height:60vh;
+    background-color: lightgrey;
+}
+.foot{
+    float:left;
+    width: 80%;
+    height:20vh;
+    background-color: lightgreen;
+}
